@@ -7,7 +7,7 @@ const About = () => {
 
   useEffect(() => {
     updateAboutPage()
-  },[]);
+  });
 
   return (
     <div>

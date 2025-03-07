@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <Wrapper>
       <h2 className='common-heading'>feel free to contact</h2>
-      <iframe 
+      <iframe title='map'
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.9707040917647!2d77.0694760145186!3d28.450299499057348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18ec3fffffff%3A0xf3b98f4eb9b438df!2sPolicybazaar%20Corporate%20Office!5e0!3m2!1sen!2sin!4v1676110761282!5m2!1sen!2sin"
        width="100%" 
        height="350"

@@ -47,10 +47,6 @@ const AppProvider = ({children}) => {
     useEffect(() =>{
         getServices(API);
     },[]);
-
-    // return <AppContext.Provider value={{role: "Frontend Developer",
-    //  exp : "6 years",
-    // skills: "HTML,CSS,JavaScript,React,Jquery,Bootstrap etc"}} >{children}</AppContext.Provider>
     return <AppContext.Provider value={{...state, updateHomePage, updateAboutPage, role: "Frontend Developer",
     exp : "6 years",
     skills: "HTML,CSS,JavaScript,React,Jquery,Bootstrap etc"}} >{children}</AppContext.Provider>

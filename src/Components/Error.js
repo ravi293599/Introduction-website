@@ -6,7 +6,7 @@ import { Button } from '../styles/button';
 const Error = () => {
   return (
     <Wrapper>
-        <img src="./images/error.svg" />
+        <img src="./images/error.svg" alt="Error" />
         <NavLink to="/">
             <Button className='btn'>Go Back</Button>
         </NavLink>

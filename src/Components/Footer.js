@@ -41,17 +41,17 @@ const Footer = () => {
           <div className='footer-social'>
             <h3>Follow us</h3>
             <div className='footer-social--icons'>
-              <a href='#' target="_blank">
+              <a href='/about' target="_blank">
                 <div>
                   <FaDiscord className='icons' />
                 </div>
               </a>
-              <a href='#' target="_blank">
+              <a href='/about' target="_blank">
                 <div>
                   <FaInstagram className='icons' />
                 </div>
               </a>
-              <a href='#' target="_blank">
+              <a href='/about' target="_blank">
                 <div>
                   <FaYoutube className='icons' />
                 </div>

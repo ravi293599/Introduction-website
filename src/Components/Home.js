@@ -6,7 +6,7 @@ const Home = () => {
   const {updateHomePage} = useGlobalContext();
   useEffect(() =>{
     updateHomePage();
-  }, []);
+  });
  
   return (
     <div>

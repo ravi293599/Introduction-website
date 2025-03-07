@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Agriculture Website",
+        "image": "https://images.pexels.com/photos/2165688/pexels-photo-2165688.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus porttitor eros, sit amet tincidunt mauris bibendum hendrerit. Morbi vitae maximus urna. Curabitur cursus sed erat ac tempor. Phasellus eu accumsan sem. Maecenas sed dignissim purus, sit amet tristique odio. Donec vehicula odio finibus est ornare cursus. Vivamus sed commodo nisl. Aliquam vehicula augue blandit, pellentesque nunc vel, volutpat arcu."
+    },
+    {
+        "id": 2,
+        "name": "Makeup Website",
+        "image": "https://images.pexels.com/photos/1385478/pexels-photo-1385478.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus porttitor eros, sit amet tincidunt mauris bibendum hendrerit. Morbi vitae maximus urna. Curabitur cursus sed erat ac tempor. Phasellus eu accumsan sem. Maecenas sed dignissim purus, sit amet tristique odio. Donec vehicula odio finibus est ornare cursus. Vivamus sed commodo nisl. Aliquam vehicula augue blandit, pellentesque nunc vel, volutpat arcu."
+    },
+    {
+        "id": 3,
+        "name": "Grocery Store Website",
+        "image": "https://images.pexels.com/photos/64613/pexels-photo-64613.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus porttitor eros, sit amet tincidunt mauris bibendum hendrerit. Morbi vitae maximus urna. Curabitur cursus sed erat ac tempor. Phasellus eu accumsan sem. Maecenas sed dignissim purus, sit amet tristique odio. Donec vehicula odio finibus est ornare cursus. Vivamus sed commodo nisl. Aliquam vehicula augue blandit, pellentesque nunc vel, volutpat arcu."
+    },
+    {
+        "id": 4,
+        "name": "Gym Website",
+        "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus porttitor eros, sit amet tincidunt mauris bibendum hendrerit. Morbi vitae maximus urna. Curabitur cursus sed erat ac tempor. Phasellus eu accumsan sem. Maecenas sed dignissim purus, sit amet tristique odio. Donec vehicula odio finibus est ornare cursus. Vivamus sed commodo nisl. Aliquam vehicula augue blandit, pellentesque nunc vel, volutpat arcu."
+    },
+    {
+        "id": 5,
+        "name": "Delivery Website",
+        "image": "https://images.pexels.com/photos/4604599/pexels-photo-4604599.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus porttitor eros, sit amet tincidunt mauris bibendum hendrerit. Morbi vitae maximus urna. Curabitur cursus sed erat ac tempor. Phasellus eu accumsan sem. Maecenas sed dignissim purus, sit amet tristique odio. Donec vehicula odio finibus est ornare cursus. Vivamus sed commodo nisl. Aliquam vehicula augue blandit, pellentesque nunc vel, volutpat arcu."
+    },
+    {
+        "id": 6,
+        "name": "Restaurant Website",
+        "image": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus porttitor eros, sit amet tincidunt mauris bibendum hendrerit. Morbi vitae maximus urna. Curabitur cursus sed erat ac tempor. Phasellus eu accumsan sem. Maecenas sed dignissim purus, sit amet tristique odio. Donec vehicula odio finibus est ornare cursus. Vivamus sed commodo nisl. Aliquam vehicula augue blandit, pellentesque nunc vel, volutpat arcu."
+    },
+    {
+        "id": 7,
+        "name": "Lawyer Website",
+        "image": "https://images.pexels.com/photos/8730785/pexels-photo-8730785.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus porttitor eros, sit amet tincidunt mauris bibendum hendrerit. Morbi vitae maximus urna. Curabitur cursus sed erat ac tempor. Phasellus eu accumsan sem. Maecenas sed dignissim purus, sit amet tristique odio. Donec vehicula odio finibus est ornare cursus. Vivamus sed commodo nisl. Aliquam vehicula augue blandit, pellentesque nunc vel, volutpat arcu."
+    },
+    {
+        "id": 8,
+        "name": "Flowrist Website",
+        "image": "https://images.pexels.com/photos/1389401/pexels-photo-1389401.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus porttitor eros, sit amet tincidunt mauris bibendum hendrerit. Morbi vitae maximus urna. Curabitur cursus sed erat ac tempor. Phasellus eu accumsan sem. Maecenas sed dignissim purus, sit amet tristique odio. Donec vehicula odio finibus est ornare cursus. Vivamus sed commodo nisl. Aliquam vehicula augue blandit, pellentesque nunc vel, volutpat arcu."
+    },
+    {
+        "id": 9,
+        "name": "School Website",
+        "image": "https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus porttitor eros, sit amet tincidunt mauris bibendum hendrerit. Morbi vitae maximus urna. Curabitur cursus sed erat ac tempor. Phasellus eu accumsan sem. Maecenas sed dignissim purus, sit amet tristique odio. Donec vehicula odio finibus est ornare cursus. Vivamus sed commodo nisl. Aliquam vehicula augue blandit, pellentesque nunc vel, volutpat arcu."
+    }
+]
